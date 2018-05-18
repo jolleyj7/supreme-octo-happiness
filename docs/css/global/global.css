@@ -1,0 +1,69 @@
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-style: normal;
+  src: url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/montserrat/Montserrat-Medium.eot");
+  src: url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/montserrat/Montserrat-Medium.eot?#iefix") format('embedded-opentype'),
+    url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/montserrat/Montserrat-Medium.woff2") format("woff2"),
+    url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/montserrat/Montserrat-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "HK Grotesk";
+  font-weight: 300;
+  font-style: normal;
+  src: url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/hk-grotesk/HKGrotesk-Light.eot");
+  src: url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/hk-grotesk/HKGrotesk-Light?#iefix") format('embedded-opentype'),
+    url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/hk-grotesk/HKGrotesk-Light.woff2") format("woff2"),
+    url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/hk-grotesk/HKGrotesk-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "HK Grotesk";
+  font-weight: 500;
+  font-style: normal;
+  src: url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/hk-grotesk/HKGrotesk-Medium.eot");
+  src: url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/hk-grotesk/HKGrotesk-Medium?#iefix") format('embedded-opentype'),
+    url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/hk-grotesk/HKGrotesk-Medium.woff2") format("woff2"),
+    url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/hk-grotesk/HKGrotesk-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "HK Grotesk";
+  font-weight: 700;
+  font-style: normal;
+  src: url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/hk-grotesk/HKGrotesk-Bold.eot");
+  src: url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/hk-grotesk/HKGrotesk-Bold?#iefix") format('embedded-opentype'),
+    url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/hk-grotesk/HKGrotesk-Bold.woff2") format("woff2"),
+    url("https://jolleyj7.github.io/supreme-octo-happiness/fonts/hk-grotesk/HKGrotesk-Bold.woff") format("woff");
+}
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-style: normal;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
