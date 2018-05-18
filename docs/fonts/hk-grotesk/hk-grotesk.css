@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "HK Grotesk";
+    font-weight: 300;
+    font-style: normal;
+    src: url("HKGrotesk-Light.eot");
+    src: url("HKGrotesk-Light?#iefix") format('embedded-opentype'),
+         url("HKGrotesk-Light.woff2") format("woff2"),
+         url("HKGrotesk-Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "HK Grotesk";
+    font-weight: 500;
+    font-style: normal;
+    src: url("HKGrotesk-Medium.eot");
+    src: url("HKGrotesk-Medium?#iefix") format('embedded-opentype'),
+         url("HKGrotesk-Medium.woff2") format("woff2"),
+         url("HKGrotesk-Medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: "HK Grotesk";
+    font-weight: 700;
+    font-style: normal;
+    src: url("HKGrotesk-Bold.eot");
+    src: url("HKGrotesk-Bold?#iefix") format('embedded-opentype'),
+         url("HKGrotesk-Bold.woff2") format("woff2"),
+         url("HKGrotesk-Bold.woff") format("woff");
+}

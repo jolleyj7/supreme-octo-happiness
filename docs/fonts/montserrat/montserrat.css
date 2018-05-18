@@ -1,0 +1,10 @@
+/** Montserrat Medium **/
+@font-face {
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-style: normal;
+    src: url("Montserrat-Medium.eot");
+    src: url("Montserrat-Medium.eot?#iefix") format('embedded-opentype'),
+         url("Montserrat-Medium.woff2") format("woff2"),
+         url("Montserrat-Medium.woff") format("woff");
+}
