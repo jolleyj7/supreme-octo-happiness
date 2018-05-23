@@ -67,6 +67,11 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
+  background-color: #1976d2;
+  color: white;
+}
+
+.topnav a.active-home {
   background-color: #a1a1a1;
   color: white;
 }
@@ -93,7 +98,7 @@ p.title-text {
 
 div.title-display {
   display: block;
-  align-items: center; 
+  align-items: center;
 }
 
 /*Center align the home title text on page*/
