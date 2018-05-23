@@ -135,3 +135,12 @@ p.home-flyer-text {
   color: white;
   text-align: center;
 }
+
+p.bio {
+  font-family: "HK Grotesk";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 24px;
+  color: white;
+  text-align: center;
+}
