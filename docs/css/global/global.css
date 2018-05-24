@@ -40,13 +40,14 @@
 }
 
 
-/* Add a black background color to the top navigation */
+/* Add a dark background color to the top navigation */
 .topnav {
   background-color: #333;
   overflow: hidden;
   font-family: "Montserrat";
   font-weight: 500;
   font-style: normal;
+  box-shadow: 2px 3px 5px #000000;
 }
 
 /* Style the links inside the navigation bar */
@@ -140,7 +141,11 @@ p.bio {
   font-family: "HK Grotesk";
   font-weight: 500;
   font-style: normal;
-  font-size: 24px;
-  color: white;
+  font-size: 22px;
+  color: black;
   text-align: center;
+}
+
+body {
+  background-color: #eeeeee;
 }
