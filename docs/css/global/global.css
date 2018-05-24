@@ -149,3 +149,13 @@ p.bio {
 body {
   background-color: #eeeeee;
 }
+
+div.github{
+  font-family: "HK Grotesk";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 14px;
+  color: black;
+  text-align: left;
+  padding-top: 20px;
+}
