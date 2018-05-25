@@ -151,10 +151,10 @@ p.bio {
 }
 
 body {
-  background-color: #eeeeee;
+  background: #eeeeee;
 }
 
-div.github{
+div.github {
   font-family: "HK Grotesk";
   font-weight: 500;
   font-style: normal;
@@ -162,4 +162,32 @@ div.github{
   color: black;
   text-align: left;
   padding-top: 20px;
+  color: #1976d2;
+}
+
+p.sources-title {
+  font-family: "HK Grotesk";
+  font-weight: 700;
+  font-style: normal;
+  font-size: 26px;
+  color: black;
+  text-align: left;
+  padding-top: 5px;
+}
+
+ul.sources-list {
+  font-family: "HK Grotesk";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 22px;
+  color: black;
+  text-align: left;
+}
+
+a.github:link {
+  color: #1976d2;
+}
+
+a.github:visited {
+  color: #1976d2;
 }
