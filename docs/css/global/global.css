@@ -191,3 +191,22 @@ a.github:link {
 a.github:visited {
   color: #1976d2;
 }
+
+a.github-home:link {
+  color: #a1a1a1;
+}
+
+a.github-home:visited {
+  color: #a1a1a1;
+}
+
+div.github-home {
+  font-family: "HK Grotesk";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 14px;
+  color: black;
+  text-align: left;
+  padding-top: 20px;
+  color: #a1a1a1;
+}
